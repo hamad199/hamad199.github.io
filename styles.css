@@ -3,6 +3,18 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.assignment {
+    display:flex;
+    padding: 12px;
+    margin:12px;
+    background:darkgray;
+}
+
+.assignment img { 
+    width:210px;
+    padding: 12px;
+}
+
 h1 {
     color: navy;
     text-align: center;
